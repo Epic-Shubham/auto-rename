@@ -68,7 +68,7 @@ Use These Keywords To Setup Custom File Name
 ⦿ /see_caption - Use This Command To See Your Caption
 ⦿ /del_caption - Use This Command To Delete Your Caption"""
 
-   PROGRESS_BAR = """\n
+   PROGRESS_BAR = """
 <b>┌────────────────────── Progress ──────────────────────┐
 <b>│ Size    : {1} | {2}
 <b>│ Done    : {0}%

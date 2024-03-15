@@ -68,14 +68,12 @@ Use These Keywords To Setup Custom File Name
 ⦿ /see_caption - Use This Command To See Your Caption
 ⦿ /del_caption - Use This Command To Delete Your Caption"""
 
-   PROGRESS_BAR = """
-┌────────────────────── Progress ──────────────────────┐
-<b>│ Size    : {1} | {2}
-<b>│ Done    : {0}%
-<b>│ Speed   : {3}/s
-<b>│ ETA     : {4}
-<b>└─────────────────────────────────────────────┘
-"""
+    PROGRESS_BAR = """\n
+<b>┠📁 Size</b> : {1} | {2}
+<b>┠⏳️ Done</b> : {0}%
+<b>┠🚀 Speed</b> : {3}/s
+<b>┠⏰️ ETA</b> : {4} """
+    
     
     DONATE_TXT = """<b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
     
@@ -90,9 +88,4 @@ Here Is The Help For My Commands."""
 
 
 
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
 

@@ -69,7 +69,7 @@ Use These Keywords To Setup Custom File Name
 ⦿ /del_caption - Use This Command To Delete Your Caption"""
 
    PROGRESS_BAR = """
-<b>┌────────────────────── Progress ──────────────────────┐
+┌────────────────────── Progress ──────────────────────┐
 <b>│ Size    : {1} | {2}
 <b>│ Done    : {0}%
 <b>│ Speed   : {3}/s
